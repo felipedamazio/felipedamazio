@@ -15,6 +15,28 @@
   <img align="center" alt="Felp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felp-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Felp-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Felp-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  
 </div>
+ <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Felp-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Felp-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
+   <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
+   
+   </div>
+  <div style="display: inline_block"><br>
+    
+    <a href="https://www.linkedin.com/in/felipe-damazio-195244191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+  <a href="https://www.youtube.com/c/FelpD" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    
+  <a href="https://www.instagram.com/felipe.damazio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
+    <a href="https://www.facebook.com/damaziofelp" target="_blank"><img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" target="_blank"></a>
+    
+ <a href="https://trovo.live/FelpD" target="_blank"><img src="https://img.shields.io/badge/Trovo-9146FF?style=for-the-badge&logo=trovo&logoColor=Green" target="_blank"></a>
+    
+ <a href = "mailto:lipjb@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
