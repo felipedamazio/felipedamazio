@@ -1,6 +1,6 @@
 ### Olá eu sou o Felipe Damazio
 
-- 🔭 Desenvolvedor Web Front End 
+- 🔭 Desenvolvedor Front End 
 - 📫 Contate-me no email lipjb@hotmail.com 
 <div align="center">
   
