@@ -6,7 +6,7 @@
   
   <a href=https://github.com/felipedamazio>
     
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
   <div style="display: inline_block"><br>
