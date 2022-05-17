@@ -21,7 +21,7 @@
   
  
 </div>
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="felipe-damazio-195244191" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-damazio-195244191?trk=profile-badge">Felipe Damazio</a></div>
+  
  <div style="display: inline_block"><br>
   
   <img align="center" alt="Felp-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
