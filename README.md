@@ -31,7 +31,7 @@
    </div>
   <div style="display: inline_block"><br>
     <a href="(https://www.linkedin.com/in/felipe-damazio-195244191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
-       <a href="https://www.youtube.com/c/FelpD" target="_blank"<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ></a>
+       <a href="https://www.youtube.com/c/FelpD" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/felipe.damazio"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/felp.damazio" target="_blank"><img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" target="_blank"></a>    
  <a href = "mailto:lipjb@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
