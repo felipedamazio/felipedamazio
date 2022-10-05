@@ -15,12 +15,12 @@
   <a href="https://www.instagram.com/felipe.damazio" target =_"blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>   
  <a href="https://www.facebook.com/felp.damazio" target="_blank"><img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" target="_blank"></a>  
   <a href = "mailto:lipjb@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-   
- 
+      
 </div>
 
-
+<a href="https://github.com/felipedamazio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Felp' github stats" /></a> 
+ 
+  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true" /></a>
 
               
 <div align="center">
