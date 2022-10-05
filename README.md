@@ -31,11 +31,8 @@
        
 <div align="center">
   
-  <a href=https://github.com/felipedamazio>
-    
-    <img align="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" 
-   
-    
+  <a href=https://github.com/felipedamazio>    
+        
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Felp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,7 +44,9 @@
           
   <img align="center" alt="Felp-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Felp-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
-   <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">        
+   <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">   
+   <img align="right" alt="Felp-Gif" height="150" style="border-radius:50px;" 
+   src="<img align="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" ">
  </div>
     
           
