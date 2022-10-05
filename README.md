@@ -22,7 +22,7 @@
    <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">        
  </div>
     
-    - Estou aprendendo
+  - Estou aprendendo <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"  />
   
