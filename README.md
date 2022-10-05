@@ -18,9 +18,9 @@
       
 </div>
 
-<a href="https://github.com/felipedamazio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Felp' github stats" /></a> 
+<a href="https://github.com/felipedamazio/github-readme-stats"><img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Felp' github stats" /></a> 
  
-  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true" /></a>
+  <a href="https://github.com/matealves/github-readme-stats"><img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true" /></a>
 
               
 <div align="center">
