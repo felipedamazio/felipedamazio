@@ -27,7 +27,7 @@
          
 <div align="center">
   
-  <a href=https://github.com/felipedamazio>    
+  
         
   
   <div style="display: inline_block"><br>
@@ -38,6 +38,8 @@
     <img align="center" alt="Felp-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  <img align="center" alt="Felp-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
           
+    ![xero-code height="50em"](https://user-images.githubusercontent.com/71530559/194150597-5ad3f375-8dd0-47d2-8baf-52863e3a1c07.gif)
+    
   <img align="center" alt="Felp-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Felp-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
    <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">   
@@ -48,7 +50,7 @@
 
     
           
-  ![xero-code height="50em"](https://user-images.githubusercontent.com/71530559/194150597-5ad3f375-8dd0-47d2-8baf-52863e3a1c07.gif)
+  
 
 
 
