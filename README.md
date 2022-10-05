@@ -2,12 +2,10 @@
 
 - 🔭 Desenvolvedor Front End 
 - 📫 Contate-me no email lipjb@hotmail.com 
-- 
+
 - ## Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40" />
-
-
 
               
 <div align="center">
