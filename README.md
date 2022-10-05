@@ -18,10 +18,11 @@
       
 </div>
 
-<a href="https://github.com/felipedamazio/github-readme-stats"><img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Felp' github stats" /></a> 
- 
-  <a href="https://github.com/matealves/github-readme-stats"><img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true" /></a>
-
+<div>
+<a href="https://github.com/felipedamazio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
               
 <div align="center">
   
