@@ -1,7 +1,12 @@
 ### Olá eu sou o Felipe Damazio
 
-- 🔭 Desenvolvedor Front End 
-- 📫 Contate-me no email lipjb@hotmail.com 
+
+🔭 Desenvolvedor Front End 
+📚 Sistemas de Informação
+🛠 Avançando no JavaScript
+⚒ Estudando React
+🎮Gamer|Streamer|Creator
+📫 Contate-me no email lipjb@hotmail.com 
 
 
 
@@ -24,14 +29,7 @@
     
   <div>
     <br> 
-    
- - #Estou aprendendo
-    <br>
-
-<img align="center" alt="Felp-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  </div>
-   
- 
+        
   
 <div> 
 <br>
