@@ -50,7 +50,8 @@
   <img align="center" alt="Felp-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
    <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">   
   
-       ![xero-code](https://user-images.githubusercontent.com/71530559/194149438-7f39aa6c-dcc9-4020-9704-becb761a750f.gif)
+     ![cartoonFelp](https://user-images.githubusercontent.com/71530559/194149781-acbed3ec-4252-4f35-a388-c9220072b0c4.png)
+
  
 </div>
   
