@@ -10,13 +10,6 @@
 - ⚒ Estudando React
 - 🎮Gamer | Streamer | Creator
 - 📫 Contate-me no email lipjb@hotmail.com 
-
-
-
-![xero-code](https://user-images.githubusercontent.com/71530559/194149952-94992f53-8c71-4e8b-a46f-443166c68379.gif)
-
-
-
 <br>
 <a href="https://www.linkedin.com/in/felipe-damazio-195244191" target=_"blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank" ></a> 
   <a href="https://www.youtube.com/channel/UCp-RiLixt2o52--B4aRkUCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
@@ -27,14 +20,11 @@
 </div>
 <br>
 <div>
-<a href="https://github.com/felipedamazio">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=cobalt2"/>
-</div>
-             
-  
-       
+</div>             
+         
 <div align="center">
   
   <a href=https://github.com/felipedamazio>    
@@ -51,14 +41,14 @@
   <img align="center" alt="Felp-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Felp-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
    <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">   
-  
-   
- 
+      
 </div>
   
  </div>
+
     
           
-  
+  ![xero-code](https://user-images.githubusercontent.com/71530559/194150597-5ad3f375-8dd0-47d2-8baf-52863e3a1c07.gif)
+
 
 
