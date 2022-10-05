@@ -24,8 +24,8 @@
 <div>
 <a href="https://github.com/felipedamazio">
 
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=cobalt2"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
              
   
