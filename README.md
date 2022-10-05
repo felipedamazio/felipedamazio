@@ -1,4 +1,5 @@
-### Salve galera Felp na área...🚀
+
+## Salve galera Felp na área...🚀
 ## Bem vindo ao meu perfil GitHub 👋
 
 
@@ -46,8 +47,8 @@
   <img align="center" alt="Felp-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Felp-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
    <img align="center" alt="Felp-afterefects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">   
-   <img align="right" alt="Felp-Gif" height="150" style="border-radius:50px;" 
-   src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+   <img align="right" alt="Felp-Gif" height="150" style="border-radius:50px; src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">" 
+  
  </div>
     
           
