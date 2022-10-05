@@ -21,8 +21,8 @@
 <br>
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=cobalt2"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=tokyonight2&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>     
 
 ![xero-code](https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif)
