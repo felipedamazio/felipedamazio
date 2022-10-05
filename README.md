@@ -9,9 +9,8 @@
 - 🛠 Avançando no JavaScript
 - ⚒ Estudando React
 - 🎮Gamer | Streamer | Creator
-- 📫 Contate-me no email lipjb@hotmail.com 
-
-
+- 📫 Contate-me no email lipjb@hotmail.com
+-
  <a href="https://www.linkedin.com/in/felipe-damazio-195244191" target=_"blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank" ></a> 
  <a href="https://www.youtube.com/channel/UCp-RiLixt2o52--B4aRkUCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
  <a href="https://www.instagram.com/felipe.damazio" target =_"blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>   
