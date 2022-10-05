@@ -26,10 +26,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=cobalt2"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 </div>
-              <img align="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" 
+             
+  <img align="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" 
+       
 <div align="center">
   
   <a href=https://github.com/felipedamazio>
+    
+    <div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
    
     
   
