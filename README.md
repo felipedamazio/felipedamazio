@@ -23,11 +23,12 @@
  </div>
     
   <div>
+    
     - Estou aprendendo <br>
 
-<img align="center" alt="Felp-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"   />
+<img align="center" alt="Felp-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   
-    </div>
+   
  
   
 <div> 
