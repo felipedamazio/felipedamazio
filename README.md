@@ -2,6 +2,12 @@
 
 - 🔭 Desenvolvedor Front End 
 - 📫 Contate-me no email lipjb@hotmail.com 
+- 
+- ## Estou aprendendo
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
               
 <div align="center">
   
