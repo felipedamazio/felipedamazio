@@ -23,14 +23,13 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=cobalt2"/>
-</div>             
+</div>     
+
+![xero-code](https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif)
+
          
 <div align="center">
-  
-  
-      ![xero-code](https://user-images.githubusercontent.com/71530559/194150899-50d0eb92-59b3-44a8-8dfd-900ee14dfa3d.gif)
-
-  
+         
   <div style="display: inline_block"><br>
   <img align="center" alt="Felp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felp-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
