@@ -8,7 +8,7 @@
 - 📚 Sistemas de Informação
 - 🛠 Avançando no JavaScript
 - ⚒ Estudando React
-- 🎮Gamer|Streamer|Creator
+- 🎮Gamer | Streamer | Creator
 - 📫 Contate-me no email lipjb@hotmail.com 
 
 
