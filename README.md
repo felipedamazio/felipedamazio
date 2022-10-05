@@ -48,7 +48,7 @@
 
     
           
-  ![xero-code](https://user-images.githubusercontent.com/71530559/194150597-5ad3f375-8dd0-47d2-8baf-52863e3a1c07.gif)
+  ![xero-code height="50em"](https://user-images.githubusercontent.com/71530559/194150597-5ad3f375-8dd0-47d2-8baf-52863e3a1c07.gif)
 
 
 
