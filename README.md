@@ -12,7 +12,7 @@
 - 📫 Contate-me no email lipjb@hotmail.com 
 
 
-
+<img align="right" alt="Felp-pic" height="150" style="border-radius:50px;" 
 ![xero-code](https://user-images.githubusercontent.com/71530559/194149952-94992f53-8c71-4e8b-a46f-443166c68379.gif)
 
 
