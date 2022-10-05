@@ -13,7 +13,8 @@
 
 
 
-<div> 
+<div> ![xero-code](https://user-images.githubusercontent.com/71530559/194149208-ab28f822-b343-4b33-a6e7-8084443374a9.gif)
+
 <br>
 <a href="https://www.linkedin.com/in/felipe-damazio-195244191" target=_"blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank" ></a> 
   <a href="https://www.youtube.com/channel/UCp-RiLixt2o52--B4aRkUCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
