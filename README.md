@@ -24,7 +24,7 @@
     
   - Estou aprendendo <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"  />
+<img align= center alt ="Felp-React" height="30" width="40" "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"   />
   
  
   
