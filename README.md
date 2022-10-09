@@ -4,6 +4,9 @@
 <h3 align="center">-Bem vindo ao meu perfil GitHub 👋</h3>
 
 
+<img  align="right"  width="300"  src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
+
+
 - 🔭 Desenvolvedor Front End 
 - 📚 Sistemas de Informação
 - 🛠 Avançando no JavaScript
@@ -11,7 +14,7 @@
 - 🎮Gamer | Streamer | Creator
 - 📫 Contate-me no email lipjb@hotmail.com
 
-<img  align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +23,7 @@
 <a href="https://www.linkedin.com/in/felipe-damazio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdanjumkamali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/felpcreativelab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdanjumkamali" height="30" width="40" /></a>
  </p>
- 
+ <br>
  <div align="center">
           
    <div style="display: inline_block">
