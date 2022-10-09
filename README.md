@@ -25,7 +25,7 @@
  </p>
  <br>
  <div align="center">
-          
+          <br>
    <div style="display: inline_block">
   <h3 align="center">Languages and Tools:</h3>
   <img align="center" alt="Felp-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
