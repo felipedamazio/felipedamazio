@@ -14,7 +14,7 @@
 - 📚 Sistemas de Informação
 - 🛠  Avançando no JavaScript
 - ⚒  Estudando React
-- 🎮 Gamer | Streamer | Creator
+- 🎮 Gamer | Streamer | Creator <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCp-RiLixt2o52--B4aRkUCg?style=social">  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCp-RiLixt2o52--B4aRkUCg?style=social">
 - 📫 Contate-me no email lipjb@hotmail.com
 - <img alt="GitHub followers" src="https://img.shields.io/github/followers/felipedamazio?style=social">
 
