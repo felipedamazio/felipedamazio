@@ -16,7 +16,7 @@
 - ⚒  Estudando React
 - 🎮 Gamer | Streamer | Creator
 - 📫 Contate-me no email lipjb@hotmail.com
-
+- <img alt="GitHub followers" src="https://img.shields.io/github/followers/felipedamazio?style=social">
 
 
 
@@ -26,6 +26,8 @@
 <a href="https://www.linkedin.com/in/felipe-damazio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdanjumkamali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/felpcreativelab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdanjumkamali" height="30" width="40" /></a>
  </p>
+ 
+
  <br>
  <div align="center">
           <br>
