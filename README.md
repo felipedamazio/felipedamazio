@@ -10,11 +10,11 @@
 <img  align="right"  width="300"  src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
 
 
-- 🔭 Software Developer Front End 
+- 💻 Software Developer Front End 
 - 📚 Sistemas de Informação
-- 🛠 Avançando no JavaScript
-- ⚒ Estudando React
-- 🎮Gamer | Streamer | Creator
+- 🛠  Avançando no JavaScript
+- ⚒  Estudando React
+- 🎮 Gamer | Streamer | Creator
 - 📫 Contate-me no email lipjb@hotmail.com
 
 
