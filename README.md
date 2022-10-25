@@ -38,11 +38,13 @@
   <img align="center" alt="Felp-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felp-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felp-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">          
+  <img align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img  align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+
         
   <img align="center" alt="Felp-Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Felp-Premiere" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
-   <img align="center" alt="Felp-afterefects" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">   
+   
    
       
 </div>
