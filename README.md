@@ -18,6 +18,8 @@
 - 📫 Contate-me no email lipjb@hotmail.com
 - <img alt="GitHub followers" src="https://img.shields.io/github/followers/felipedamazio?style=social">
 
+ <a href="https://felps-portifolio.vercel.app/" target="_blank">MEU PORTIFOLIO PESSOAL</a> 
+
 
 
 <h3 align="left">Connect with me:</h3>
