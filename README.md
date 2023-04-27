@@ -63,7 +63,7 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=tokyonight"/>
  
 </div>     
- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+ 
  
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lipjbn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewithanjum" /></a></p><br><br>
