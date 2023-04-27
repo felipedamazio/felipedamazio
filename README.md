@@ -14,9 +14,9 @@
 - 📚 Sistemas de Informação
 - 🛠  Avançando no JavaScript
 - ⚒  Estudando React
-- 🎮 Gamer | Streamer | Creator <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCp-RiLixt2o52--B4aRkUCg?style=social">  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCp-RiLixt2o52--B4aRkUCg?style=social">
+- 🎮 Gamer | Streamer | Creator 
 - 📫 Contate-me no email lipjb@hotmail.com
-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/felipedamazio?style=social">
+
 
  <a href="https://felps-portifolio.vercel.app/" target="_blank">MEU PORTIFOLIO PESSOAL</a> 
 
@@ -35,11 +35,11 @@
           <br>
    <div style="display: inline_block">
   <h3 align="center">Languages and Tools:</h3>
-  <img align="center" alt="Felp-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felp-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Felp-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felp-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felp-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Felp-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Felp-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Felp-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Felp-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Felp-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img  align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 
