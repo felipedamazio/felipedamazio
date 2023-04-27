@@ -7,7 +7,7 @@
 <h3 align="center">-Bem vindo ao perfil GitHub de Felipe Damazio  👋</h3>
 
 
-<img  align="right"  width="300"  src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
+<img  align="right"  width="150"  src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
 
 
 - 💻 Software Developer Front End 
@@ -38,21 +38,28 @@
   <img align="center" alt="Felp-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felp-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felp-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>        
+  <img align="center" alt="Felp-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
   <img align="center" alt="Felp-Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Felp-Premiere" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">  
+ 
+</div>  
+<br>
+<div style="display: inline_block" align="center">  
+  <img align="center" alt="Felp-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Felp-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Felp-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Felp-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Felp-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
+ <img align="center" alt="Felp-Sass" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ <img align="center" alt="Felp-Sass" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
 </div>  
 <br>
 
 <div align="center">
  <a href="https://github.com/felipedamazio?tab=repositories">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=tokyonight"/>
- 
-</div>     
- 
- 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&layout=compact&langs_count=7&theme=tokyonight"/> 
+</div>  
+
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lipjbn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewithanjum" /></a></p><br><br>
          
