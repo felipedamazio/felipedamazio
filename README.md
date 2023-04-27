@@ -15,8 +15,7 @@
 - 🛠  Avançando no JavaScript
 - ⚒  Estudando React
 - 🎮 Gamer | Streamer | Creator 
-- 📫 Contate-me no email lipjb@hotmail.com
-
+- 📫 Contate-me no email [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
 
  <a href="https://felps-portifolio.vercel.app/" target="_blank">MEU PORTIFOLIO PESSOAL</a> 
 
