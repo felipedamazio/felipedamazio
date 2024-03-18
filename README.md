@@ -10,10 +10,9 @@
 <img  align="right"  width="150"  src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
 
 
-- 💻 Developer Front End 
+- 💻 Front End Developer  
 - 📚 Sistemas de Informação
-- 🛠  Avançando no JavaScript
-- ⚒  Estudando React
+- 🛠  React.js | Next.js | JavaScript | TypeScript 
 - 🎮 Gamer | Streamer | Creator 
 - 📫 Contate-me no email [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
 
