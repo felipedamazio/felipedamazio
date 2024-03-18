@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show(prs_merged)"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&theme=react&show_icons=true&hide_border=true&layout=compact"/>  
 </div>  
 
