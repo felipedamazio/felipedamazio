@@ -12,16 +12,6 @@
 - 📫 Contate-me no email [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
 
  <a href="https://felps-portifolio.vercel.app/" target="_blank">MEU PORTIFOLIO PESSOAL</a> 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCp-RiLixt2o52--B4aRkUCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with anjum" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/felipe-damazio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdanjumkamali" height="30" width="40" /></a>
-<a href="https://www.instagram.com/felpcreativelab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdanjumkamali" height="30" width="40" /></a>
- </p> 
- 
  
  
  <h3 align="center">Languages and Tools:</h3>
@@ -54,7 +44,13 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipedamazio&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show(prs_merged)"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedamazio&theme=react&show_icons=true&hide_border=true&layout=compact"/>  
 </div>  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCp-RiLixt2o52--B4aRkUCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with anjum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe-damazio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdanjumkamali" height="30" width="40" /></a>
+<a href="https://www.instagram.com/felpcreativelab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdanjumkamali" height="30" width="40" /></a>
+ </p> 
+ 
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lipjbn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewithanjum" /></a></p><br><br>
          
