@@ -12,7 +12,7 @@
 
 - 💻 Front End Developer  
 - 📚 Sistemas de Informação
-- 🛠  React.js | Next.js | JavaScript | TypeScript 
+- 🛠  React • Next.js • Node.js • JavaScript • TypeScript • TailwindCss | 
 - 🎮 Gamer | Streamer | Creator 
 - 📫 Contate-me no email [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
 
