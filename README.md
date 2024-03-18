@@ -1,6 +1,6 @@
 
 
-<h3 align="center">-Bem vindo ao perfil GitHub de Felipe Damazio  👋</h3>
+<h3 align="center">-Bem vindo ao GitHub de Felipe Damazio  👋</h3>
 
 ![capaLINKEDINNewNew](https://github.com/felipedamazio/felipedamazio/assets/71530559/fb62d215-0e3a-45f8-b634-7f50633c7080)
 
