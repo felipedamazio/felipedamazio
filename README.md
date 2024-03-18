@@ -13,7 +13,7 @@
 - 💻 Front End Developer  
 - 📚 Sistemas de Informação
 - 🛠  React • Next.js • Node.js • JavaScript • TypeScript • TailwindCss
-- 🎮 Gamer | Streamer | Creator 
+- 🎮 Criador de Conteúdo Digital e Entusiasta de Vídeo-Games
 - 📫 Contate-me no email [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
 
  <a href="https://felps-portifolio.vercel.app/" target="_blank">MEU PORTIFOLIO PESSOAL</a> 
