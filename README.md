@@ -1,13 +1,8 @@
 
 
-
- 
-<h1 align="center"> Salve galera Felp na área..👊 </h1> 
-
 <h3 align="center">-Bem vindo ao perfil GitHub de Felipe Damazio  👋</h3>
 
-
-<img  align="right"  width="150"  src="https://user-images.githubusercontent.com/71530559/194151008-7a135448-be80-4bd6-bd76-469f87961f39.gif" />
+![capaLINKEDINNewNew](https://github.com/felipedamazio/felipedamazio/assets/71530559/fb62d215-0e3a-45f8-b634-7f50633c7080)
 
 
 - 💻 Front End Developer  
