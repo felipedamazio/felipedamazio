@@ -2,7 +2,7 @@
 
 <h3 align="center">-Bem vindo ao GitHub de Felipe Damazio  👋</h3>
 
-![capaLINKEDINNewNew](https://github.com/felipedamazio/felipedamazio/assets/71530559/fb62d215-0e3a-45f8-b634-7f50633c7080)
+![capaLINKEDINSci-fi](https://github.com/felipedamazio/felipedamazio/assets/71530559/0a7a3945-3055-49ef-952f-9ed98b8b4dad)
 
 
 - 💻 Front End Developer  
