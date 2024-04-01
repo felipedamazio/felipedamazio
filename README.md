@@ -36,7 +36,7 @@
   <img align="center" alt="Felp-Tw"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">  
   <img align="center" alt="Felp-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img align="center" alt="Felp-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img align="center" alt="Felp-PS" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
+ <img align="center" alt="Felp-PS" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
 </div>  
 <br>
 
