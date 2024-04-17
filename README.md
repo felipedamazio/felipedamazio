@@ -1,10 +1,7 @@
-
-
-<h1 align="center">-Bem vindo ao GitHub do Felp  👋</h1>
-
 ![capaLINKEDINNewNewCyberpunk](https://github.com/felipedamazio/felipedamazio/assets/71530559/f88d36ca-4036-48bc-8c11-4206db972264)
 
-
+# 👋 Hello! Welcome to my Github profile.
+## My name is Felipe and my nickname is "Felp"!
 
 * 💻 Front-End Developer
 * 🚀 Diving into the Web3 universe  
