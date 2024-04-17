@@ -18,11 +18,11 @@
  [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
  </p> 
  
- <h3>
-  <a href="https://felps-portifolio.vercel.app/" target="_blank">MY PORTIFOLIO</a>
-
-  -------------------------------------- 
- </h3>
+<h3>
+<a href="https://felps-portifolio.vercel.app/" target="_blank">MY PORTIFOLIO</a> 
+</h3>
+ 
+ ## 
  
  
  <h3 align="center">Languages and Tools:</h3>
