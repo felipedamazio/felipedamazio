@@ -1,17 +1,27 @@
 
 
-<h3 align="center">-Bem vindo ao GitHub de Felipe Damazio  👋</h3>
+<h1 align="center">-Bem vindo ao GitHub do Felp  👋</h1>
 
 ![capaLINKEDINNewNewCyberpunk](https://github.com/felipedamazio/felipedamazio/assets/71530559/f88d36ca-4036-48bc-8c11-4206db972264)
 
 
-- 💻 Front End Developer  
-- 📚 Sistemas de Informação
-- 🛠  React • Next.js • Node.js • JavaScript • TypeScript • TailwindCss
-- 🎮 Criador de Conteúdo Digital e Entusiasta de Vídeo-Games
+
+<h3>  
+ 💻 Front-End Developer 
+ <br>
+🎮 Gaming Enthusiast 
+  <br>
+🚀 Diving into the Web3 universe 
+  <br>
+🎥 TECH Content Creator 
+</h3>
+
+<div style="display: inline_block" justify="center">  
+ 
 - 📫 Contate-me no email [![Gmail Badge](https://img.shields.io/badge/-lipjb@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipjb@hotmail.com)](mailto:lipjb@hotmail.com)
 
- <a href="https://felps-portifolio.vercel.app/" target="_blank">MEU PORTIFOLIO PESSOAL</a> 
+</div> 
+ <a href="https://felps-portifolio.vercel.app/" target="_blank">MY PORTIFOLIO</a> 
  
  
  <h3 align="center">Languages and Tools:</h3>
