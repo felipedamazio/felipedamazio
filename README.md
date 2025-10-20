@@ -3,7 +3,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Felipe and my nickname is "Felp"!
 
-* 💻 Front-End Developer
+* 💻 Full-Stack Developer
 * 🚀 Diving into the Web3 universe  
 * 🎮 Gaming Enthusiast  
 * 🎥 TECH Content Creator  
