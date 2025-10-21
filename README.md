@@ -33,7 +33,7 @@
    <img align="center" alt="Felp-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
    <img align="center" alt="Felp-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />    
    <img align="center" alt="Felp-Nest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />  
-   <img align="center" alt="Felp-Tw" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />   
+   <img align="center" alt="Felp-Tw" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />   
    <img align="center" alt="Felp-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">      
   
           
@@ -45,6 +45,8 @@
   <img align="center" alt="Felp-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="Felp-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img align="center" alt="Felp-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img align="center" alt="Felp-node" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
+ <img align="center" alt="Felp-ns" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Felp-Tw"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">  
   <img align="center" alt="Felp-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
 
